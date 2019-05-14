@@ -1,2 +1,2 @@
 # TheAmazingReactKata
-Inside the react dojo is a real challenge: master react sorcerer skills. (and redux skills :P)
+Inside the ancient react dojo lays a real challenge only brave coders take: master react sorcerer skills. (and redux skills :P)
